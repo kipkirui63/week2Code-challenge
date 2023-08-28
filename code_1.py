@@ -81,8 +81,8 @@ class Review:
 if __name__ == "__main__":
 
     # Create customers
-    customer1 = Customer("John", "Doe")
-    customer2 = Customer("Jane", "Smith")
+    customer1 = Customer("Faith", "Chepkoech")
+    customer2 = Customer("Jurgen", "Klop")
 
     # Create restaurants
     restaurant1 = Restaurant("Restaurant A")
