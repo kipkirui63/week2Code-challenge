@@ -3,8 +3,7 @@
 ## Restaurant Review System
 This is a simple Python program that models a restaurant review system. It consists of three main classes: Customer, Review, and Restaurant.
 
-##
-Table of Contents
+## Table of Contents
 Introduction
 Getting Started
 Classes
@@ -17,7 +16,7 @@ License
 Introduction
 The Restaurant Review System is designed to simulate the process of customers reviewing restaurants. It includes the following classes:
 
-###
+
 Customer: Represents a customer who can leave reviews for restaurants.
 Review: Represents a review given by a customer for a specific restaurant.
 Restaurant: Represents a restaurant and manages its reviews and customers.
